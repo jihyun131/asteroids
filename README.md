@@ -1,3 +1,5 @@
+## git/ github 실습
+
 # HTML5 Asteroids
 
 This game was created Doug McInnes. His code can be found
